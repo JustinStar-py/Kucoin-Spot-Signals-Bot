@@ -1,0 +1,1 @@
+worker: python ws_binance.py
