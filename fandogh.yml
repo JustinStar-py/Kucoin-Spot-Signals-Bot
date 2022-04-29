@@ -1,8 +1,0 @@
-kind: ExternalService
-name: spot-signals-bot
-spec:
-  image_pull_policy: Always
-  port: 80
-  source:
-    context: .
-    project_type: static_website
